@@ -5,7 +5,7 @@
     <artifactId>stresstester</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
-    <name>StressTester</name>
+    <name>${project.artifactId}</name>
     <properties>
         <file.encoding>UTF-8</file.encoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
